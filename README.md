@@ -27,3 +27,6 @@ and applies migrations transactionally.
 
 ## How to run
 Run migrations from IDE:
+Run tests:
+```bash
+mvn test
